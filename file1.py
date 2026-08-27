@@ -15,3 +15,6 @@ else:
     ###########
     else:
     print("new changes in test branch")
+##########
+else"
+  print("new changes in remote")
